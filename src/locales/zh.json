@@ -1,9 +1,9 @@
 {
   "RootLayout": {
-    "home_link": "Home",
+    "home_link": "主页",
     "about_link": "About",
-    "counter_link": "Counter",
-    "portfolio_link": "Portfolio",
+    "counter_link": "计数器",
+    "portfolio_link": "档案",
     "sign_in_link": "Sign in",
     "sign_up_link": "Sign up"
   },
@@ -61,7 +61,7 @@
   },
   "Dashboard": {
     "meta_title": "Dashboard",
-    "hello_message": "Hello {email}!"
+    "hello_message": "您好 %{email}！"
   },
   "UserProfile": {
     "meta_title": "User Profile"
