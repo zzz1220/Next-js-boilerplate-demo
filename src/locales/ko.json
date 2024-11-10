@@ -2,7 +2,7 @@
   "RootLayout": {
     "home_link": "Home",
     "about_link": "About",
-    "counter_link": "Counter",
+    "counter_link": "차단",
     "portfolio_link": "포트폴리오",
     "sign_in_link": "로그인",
     "sign_up_link": "Sign up"
@@ -17,15 +17,15 @@
     "sponsors_title": "Sponsors"
   },
   "Counter": {
-    "meta_title": "Counter",
+    "meta_title": "차단",
     "meta_description": "An example of DB operation",
     "loading_counter": "Loading counter...",
-    "error_reporting_powered_by": "Error reporting powered by"
+    "error_reporting_powered_by": "오류 보고 제공"
   },
   "CounterForm": {
     "presentation": "The counter is stored in the database and incremented by the value you provide.",
     "label_increment": "Increment by",
-    "button_increment": "Increment"
+    "button_increment": "늘리기"
   },
   "CurrentCount": {
     "count": "Count: {count}"
