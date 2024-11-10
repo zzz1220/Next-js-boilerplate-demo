@@ -3,8 +3,8 @@
     "home_link": "Home",
     "about_link": "About",
     "counter_link": "Counter",
-    "portfolio_link": "Portfolio",
-    "sign_in_link": "Sign in",
+    "portfolio_link": "포트폴리오",
+    "sign_in_link": "로그인",
     "sign_up_link": "Sign up"
   },
   "BaseTemplate": {
