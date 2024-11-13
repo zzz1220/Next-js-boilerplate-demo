@@ -1,0 +1,74 @@
+{
+  "RootLayout": {
+    "home_link": "Домашний",
+    "about_link": "О программе",
+    "counter_link": "Счетчик",
+    "portfolio_link": "Портфолио",
+    "sign_in_link": "Войти",
+    "sign_up_link": "Регистрация"
+  },
+  "BaseTemplate": {
+    "description": "Стартовый код для вашей Nextjs Boilerplate с CSS Tailwind",
+    "made_with": "Сделано из <author></author>."
+  },
+  "Index": {
+    "meta_title": "Next.js Boilerplate Presentation",
+    "meta_description": "Следующая версия js Boilerplate является идеальным стартовым кодом для вашего проекта. Создайте приложение React с помощью фреймворка Next.js.",
+    "sponsors_title": "Спонсоры"
+  },
+  "Counter": {
+    "meta_title": "Счетчик",
+    "meta_description": "Пример операции с БД",
+    "loading_counter": "Загрузка счетчика...",
+    "error_reporting_powered_by": "Отчет об ошибке основан на"
+  },
+  "CounterForm": {
+    "presentation": "Счетчик хранится в базе данных и увеличивается на величину, которую вы предоставляете.",
+    "label_increment": "Увеличить на",
+    "button_increment": "Прирост"
+  },
+  "CurrentCount": {
+    "count": "Счет: {count}"
+  },
+  "About": {
+    "meta_title": "О программе",
+    "meta_description": "Описание страницы",
+    "about_paragraph": "Добро пожаловать на нашу страницу О программе!",
+    "translation_powered_by": "Перевод основан на"
+  },
+  "Portfolio": {
+    "meta_title": "Портфолио",
+    "meta_description": "Добро пожаловать на мою страницу портфолио!",
+    "presentation": "Добро пожаловать на мою страницу портфолио! С помощью этого портфолио, я вижу свои знания, творческие способности и ценность, которую я могу принести вашим проектам.",
+    "portfolio_name": "Портфолио {name}",
+    "error_reporting_powered_by": "Отчет об ошибке основан на",
+    "coverage_powered_by": "Покрытие кода на основе"
+  },
+  "PortfolioSlug": {
+    "meta_title": "Портфолио {slug}",
+    "meta_description": "Описание портфолио {slug}",
+    "header": "Портфолио {slug}",
+    "content": "Создан набор рекламных материалов и элементов брендинга для корпоративного мероприятия. Создана единая визуально тема, включающая в себя логотип, плакаты, баннеры и цифровые активы. Интегрируйте фирменный знак клиента в сочетании с современным инновационным подходом. Оборот положительных отзывов участников события, что привело к успешному мероприятию с повышенной вовлеченностью участников и повышенной привлекательностью бренда.",
+    "log_management_powered_by": "Управление журналом на основе"
+  },
+  "SignIn": {
+    "meta_title": "Войти",
+    "meta_description": "Войдите в свою учетную запись с помощью нашего удобного для пользователя процесса входа."
+  },
+  "SignUp": {
+    "meta_title": "Регистрация",
+    "meta_description": "Усилия по созданию учетной записи через интуитивно понятный процесс регистрации."
+  },
+  "Dashboard": {
+    "meta_title": "Панель",
+    "hello_message": "Здравствуйте, {email}!"
+  },
+  "UserProfile": {
+    "meta_title": "Профиль пользователя"
+  },
+  "DashboardLayout": {
+    "dashboard_link": "Панель",
+    "user_profile_link": "Управление аккаунтом",
+    "sign_out": "Выйти"
+  }
+}
